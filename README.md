@@ -7,12 +7,12 @@ This is a Github Repo for all the needed resources for the WebDash 2023 Bootcamp
 
 # Day 2 Recording :
 
-https://www.youtube.com/watch?v=DdWPu4-8ihE
+https://youtu.be/DdWPu4-8ihE
 
 # Day 3 Recording :
 
-https://www.youtube.com/watch?v=hRS3Nphqoy0
+https://youtu.be/hRS3Nphqoy0
 
 # Day 4 Recording :
 
-### [Coming Soon]
+https://youtu.be/Y2I_PhYiQHU
