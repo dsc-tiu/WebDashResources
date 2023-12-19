@@ -20,3 +20,7 @@ https://youtu.be/Y2I_PhYiQHU
 # Day 5 Recording :
 
 https://youtu.be/O13dkx0ixLY
+
+# Day 6 Recording :
+
+https://youtu.be/otQJb-eq33E
