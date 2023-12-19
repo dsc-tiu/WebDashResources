@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Color Guessing Game</title>
+  </head>
+  <body>
+    <nav class="navbar">
+      <h1>Color Guessing Game</h1>
+    </nav>
+    <section class="app">
+      <div class="container">
+        <div class="color-boxes">
+          <div id="target-color-box" class="color-box"><span>Color to match</span></div>
+          <div id="guess-color-box" class="color-box"><span id="user-color-hex"></span></div>
+        </div>
+        <div class="sliders">
+          <label for="red">Red:</label>
+          <input type="range" id="red" min="0" max="255" value="0" />
+          <label for="green">Green:</label>
+          <input type="range" id="green" min="0" max="255" value="0" />
+          <label for="blue">Blue:</label>
+          <input type="range" id="blue" min="0" max="255" value="0" />
+        </div>
+        <div class="buttons">
+          <button onclick="checkGuess()">Check Guess</button>
+          <button onclick="generateRandomColor()">New Color</button>
+          <button onclick="resetGuess()">Reset Guess</button>
+        </div>
+        <p id="result"></p>
+      </div>
+    </section>
+    <script src="script.js"></script>
+  </body>
+</html>
